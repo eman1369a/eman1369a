@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Emanuel I dont think I fit the traditional aspiring data scientist but as a curious scientist I fit the role. I did my masters in Computer Science focused on Data Science topics.
-- 👀 I’m interested in sound data, music, running, learning languages(currently know 5), playing guitar and machine learning
-- 🌱 I’m currently learning how to process audio data, disentanglement techniques on my spare time and improving my tensorflow and pytorch skills as well learning how to use PySpark. 
-- 💞️ I’m a very curious person and am currently living abroad to live my life learning new languages and cultures.
-- 📫 You can reach me at eman1369a@gmail.com
+Hi there, I'm Emanuel, a data enthusiast with a strong background in computer science and a passion for exploring sound data. As a curious scientist, I'm always eager to learn new skills and tackle new challenges.
 
-![edita](https://user-images.githubusercontent.com/59575541/137619631-eb11a7d4-09e7-4a5f-a757-913238623837.jpg)
+👀 I'm interested in a wide range of topics, including music, running, learning languages (I currently speak 5), playing guitar, and of course, machine learning. My focus lately has been on processing audio data and exploring disentanglement techniques.
+
+🌱 In my spare time, I'm honing my skills in TensorFlow, PyTorch, and PySpark. I'm always looking for new projects to work on and new ways to apply my knowledge to real-world problems.
+
+💞️ I'm a highly curious person, and I'm currently living abroad to immerse myself in new cultures and languages. I believe that learning from different perspectives is essential to being an effective data scientist.
+
+📫 You can reach me at eman1369a@gmail.com. I'm always open to new opportunities and collaborations.
